@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Roblox';
+    src: url(../../../fonts/RobloxFontRegular.ttf);
+}
+@font-face {
+    font-family: 'Kafeine';
+    src: url(../../../fonts/KafeinePersonalUse-x35a8.ttf);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333 ;
+    overflow-x:hidden ;
+   
+}
+
+
+
+.content{
+    max-width: 49rem;
+    padding-left:1rem ;
+    padding-right: 1rem;
+    margin: 20px auto;
+    text-align: center;
+    
+}
+img{
+    height: 300px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+h1{ font-family: 'Roblox';}
+.header-overlay{
+    height: 100%;
+    width: 800px;
+    position: absolute;
+    left: 280px;
+    background: #2E294E ;
+    z-index: 1;
+    opacity: .70;
+}
+.header-content{
+    z-index: 2;
+    margin: auto;
+   
+}
+
+
+.header-content p#subtitulo{
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 2rem;
+    font-family: 'Kafeine';
+}
+
+
+@media (max-width: 960px){
+    .header-content{
+        padding: 0 3rem 0 4rem 0;
+    }
+}

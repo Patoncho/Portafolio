@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roblox';
+    src: url(../../../fonts/RobloxFontRegular.ttf);
+}
+
+h1{
+    font-family: 'Roblox';
+}
+
+div{
+    text-align: center;
+    padding: 20px 30px;
+}
+
+p{
+    text-align: center;
+    font-family: 'Source Serif 4', sans-serif;
+}
+

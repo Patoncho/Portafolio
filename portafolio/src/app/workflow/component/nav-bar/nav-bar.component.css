@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Beauty';
+    src: url(../../../fonts/BeautyMountainsPersonalUse-od7z.ttf);
+}
+
+p{
+    font-family: 'Beauty';
+    font-size: 25px;
+    padding-left: 20px;
+
+}

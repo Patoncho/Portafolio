@@ -1,5 +1,9 @@
 # Portafolio
 
+Hello Everywhere, this is my Portafolio with my history and my personal project.
+I use angular 13 in this case because is my favorite Front-End technology, I hope you like it.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
